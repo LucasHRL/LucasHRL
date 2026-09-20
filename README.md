@@ -97,14 +97,15 @@ UNICID — Em andamento
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
+💻 Projetos e estudos em desenvolvimento  
+🐍 Python  
+💜 C#  
+🌐 HTML & CSS  
+📊 Power BI  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasHRL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHRL&layout=compact&theme=tokyonight)
-
+---
 </div>
 
 ## 📫 Contato
