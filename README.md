@@ -69,19 +69,24 @@ Projeto acadêmico desenvolvido em equipe, com foco na criação de uma soluçã
 
 ---
 
-### 💈 Code-Corte
+### 💈 Code&Corte
 
-**Sistema de agendamento para barbearia**
+**Sistema de agendamento para barbearia — 🚧 Em desenvolvimento**
 
-Projeto acadêmico desenvolvido para aplicar conceitos de desenvolvimento web na criação de uma solução de agendamento de serviços.
+Projeto acadêmico atualmente em processo de desenvolvimento, criado para aplicar conhecimentos de desenvolvimento web e organização de sistemas em uma solução de agendamento para serviços de barbearia.
 
-**Destaques:**
-- Interface para apresentação dos serviços
-- Estrutura de páginas do sistema
-- Organização de fluxo de agendamento
-- Desenvolvimento voltado para experiência do usuário
+**Status:** 🚧 Em desenvolvimento
+
+**Objetivos do projeto:**
+- Estruturar um sistema de agendamento
+- Criar uma interface para apresentação dos serviços
+- Organizar o fluxo de agendamento
+- Aplicar conhecimentos adquiridos durante o curso
+- Evoluir gradualmente a aplicação conforme os estudos avançam
 
 📂 **[Ver repositório](https://github.com/LucasHRL/Code-Corte)**
+
+> ⚠️ O projeto ainda está em desenvolvimento e novas funcionalidades serão adicionadas ao longo do processo.
 
 ---
 
