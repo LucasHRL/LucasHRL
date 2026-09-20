@@ -97,6 +97,16 @@ UNICID — Em andamento
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasHRL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHRL&layout=compact&theme=tokyonight)
+
+</div>
+
 ## 📫 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-henrique-ribeiro-lima-5444883bb)
