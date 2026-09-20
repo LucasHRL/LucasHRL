@@ -54,22 +54,40 @@ Busco minha primeira oportunidade profissional na área de Tecnologia, continuan
 
 ### 🐾 PetCode
 
-Aplicação web acadêmica voltada para planos de saúde veterinários.
+**Plataforma web de planos de saúde veterinários**
 
-O projeto foi desenvolvido em equipe e envolveu concepção, estruturação da aplicação, prototipagem e utilização de Inteligência Artificial durante o desenvolvimento.
+Projeto acadêmico desenvolvido em equipe, com foco na criação de uma solução digital para facilitar a apresentação e simulação de planos de saúde para pets.
 
-🔗 **[Acessar projeto](https://lucashrl.github.io/PetCode/)**
+**Destaques:**
+- Estruturação e concepção da aplicação
+- Desenvolvimento de interface web
+- Prototipagem e organização das funcionalidades
+- Utilização de Inteligência Artificial e engenharia de prompts durante o desenvolvimento
+
+🔗 **[Acessar projeto](https://lucashrl.github.io/PetCode/)**  
+📂 **[Ver repositório](https://github.com/LucasHRL/PetCode)**
 
 ---
 
 ### 💈 Code-Corte
 
-Projeto acadêmico de um sistema de agendamento para barbearia.
+**Sistema de agendamento para barbearia**
 
-O projeto busca aplicar conceitos de desenvolvimento web e organização de sistemas em uma solução prática.
+Projeto acadêmico desenvolvido para aplicar conceitos de desenvolvimento web na criação de uma solução de agendamento de serviços.
 
-🔗 **[Acessar repositório](https://github.com/LucasHRL/Code-Corte)**
+**Destaques:**
+- Interface para apresentação dos serviços
+- Estrutura de páginas do sistema
+- Organização de fluxo de agendamento
+- Desenvolvimento voltado para experiência do usuário
 
+📂 **[Ver repositório](https://github.com/LucasHRL/Code-Corte)**
+
+---
+
+### 📌 Próximos projetos
+
+Novos projetos serão adicionados conforme avanço nos estudos de **Python, C# e Desenvolvimento Back-end**.
 ---
 
 ## 🎓 Formação
