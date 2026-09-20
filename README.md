@@ -96,16 +96,6 @@ UNICID — Em andamento
 🇪🇸 Espanhol — Intermediário
 
 ---
-
-## 📊 GitHub
-
-💻 Projetos e estudos em desenvolvimento  
-🐍 Python  
-💜 C#  
-🌐 HTML & CSS  
-📊 Power BI  
-
----
 </div>
 
 ## 📫 Contato
